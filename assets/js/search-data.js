@@ -3,14 +3,14 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-homepage",
-    title: "Homepage",
+    id: "nav-主页",
+    title: "主页",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-文章",
+          title: "文章",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
+        },{id: "nav-项目",
+          title: "项目",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-个人简历",
+          title: "个人简历",
           description: "",
           section: "Navigation",
           handler: () => {
