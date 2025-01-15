@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 更多
-nav: true
+nav: false
 nav_order: 8
 dropdown: true
 children:
