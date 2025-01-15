@@ -1,6 +1,6 @@
 ---
 layout: page
-title: news
+title: 近闻
 permalink: /news/
 ---
 
