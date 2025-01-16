@@ -5,17 +5,17 @@ description: 唐班拓展内容讲义
 img: assets/img/12.jpg
 importance: 1
 category: 讲义
-related_publications: true
+related_publications: false
 ---
 
 此讲义仍在不断完善阶段，若有建议可与笔者联系，目前完成的部分：唐敖庆班代数扩展讲义 [最新更新 2022.11.22]【已停止更新】
-
+<!-- 
     ---
     layout: page
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --- -->
 
 <h5 id=""><strong>吉大高代小导师</strong></h5>
 <h6 id="-1"><strong>唐班拓展内容讲义</strong></h6>
