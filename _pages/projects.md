@@ -5,7 +5,7 @@ permalink: /projects/
 description: 本页收录我的讲义、笔记、作业以及杂项等内容.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [讲义, 笔记, 杂项]
 horizontal: false
 ---
 
