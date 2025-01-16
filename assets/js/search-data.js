@@ -51,12 +51,7 @@ ninja.data = [{
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "projects-吉大高代小导师",
-          title: '吉大高代小导师',
-          description: "唐班拓展内容讲义",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -96,6 +91,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-吉林大学文件杂项",
+          title: '吉林大学文件杂项',
+          description: "课程作业、展示文档与毕业论文",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/JLU_works/";
+            },},{id: "projects-吉大高代小导师",
+          title: '吉大高代小导师',
+          description: "唐班拓展内容讲义",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/linear_algebra/";
             },},{
         id: 'social-email',
         title: 'email',
