@@ -51,9 +51,9 @@ ninja.data = [{
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-吉大高代小导师",
+          title: '吉大高代小导师',
+          description: "唐班拓展内容讲义",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
