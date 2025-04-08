@@ -2,7 +2,7 @@
 layout: page
 title: 吉林大学文件杂项
 description: 课程作业、展示文档与毕业论文
-img: assets/img/12.jpg
+img: assets/img/projects/02_JLUMath.jpg
 importance: 1
 category: 杂项
 related_publications: false

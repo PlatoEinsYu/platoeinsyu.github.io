@@ -2,7 +2,7 @@
 layout: page
 title: 吉大高代小导师
 description: 唐班拓展内容讲义
-img: assets/img/12.jpg
+img: assets/img/projects/01_linear.jpg
 importance: 1
 category: 讲义
 related_publications: false
