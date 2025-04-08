@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: project 4
+description: another without an image
+img:
 importance: 3
-category: TEST
+category: NO
 ---
 
 Every project has a beautiful feature showcase page.

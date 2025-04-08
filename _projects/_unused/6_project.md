@@ -4,7 +4,7 @@ title: project 6
 description: a project with no image
 img:
 importance: 4
-category: TEST
+category: NO
 ---
 
 Every project has a beautiful feature showcase page.
