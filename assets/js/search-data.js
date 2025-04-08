@@ -75,7 +75,7 @@ ninja.data = [{
         },
       },{
       id: 'light-theme',
-      title: 'Change theme to light',
+      title: 'Light Mode',
       description: 'Change the theme of the site to Light',
       section: 'Theme',
       handler: () => {
@@ -84,7 +84,7 @@ ninja.data = [{
     },
     {
       id: 'dark-theme',
-      title: 'Change theme to dark',
+      title: 'Dark Mode',
       description: 'Change the theme of the site to Dark',
       section: 'Theme',
       handler: () => {
@@ -93,7 +93,7 @@ ninja.data = [{
     },
     {
       id: 'system-theme',
-      title: 'Use system default theme',
+      title: 'System Default',
       description: 'Change the theme of the site to System Default',
       section: 'Theme',
       handler: () => {
