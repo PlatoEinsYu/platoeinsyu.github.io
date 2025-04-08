@@ -4,7 +4,7 @@ title: Tate's Thesis
 date: 2025-04-08 12:30
 description: A general method of dealing with functional equations of different L-functions.
 tags: L-functions, Harmonic Analysis
-categories: Langlands
+categories: sample-posts
 related_posts: false
 ---
 
