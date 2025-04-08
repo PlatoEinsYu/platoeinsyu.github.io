@@ -37,11 +37,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-tate-thesis",
+        },{id: "post-tate-39-s-thesis",
       
-        title: "Tate Thesis",
+        title: "Tate&#39;s Thesis",
       
       description: "an example of a blog post with some math",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Tates/";
+        
+      },
+    },{id: "post-tate-39-s-thesis",
+      
+        title: "Tate&#39;s Thesis",
+      
+      description: "Adelic method of getting functional equations of L-functions.",
       section: "Posts",
       handler: () => {
         
