@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-tate-thesis",
+      
+        title: "Tate Thesis",
+      
+      description: "an example of a blog post with some math",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/math2/";
+        
+      },
+    },{id: "post-a-post-with-plotly-js",
       
         title: "a post with plotly.js",
       
