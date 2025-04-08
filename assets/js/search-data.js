@@ -41,44 +41,11 @@ ninja.data = [{
       
         title: "Tate&#39;s Thesis",
       
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Tates/";
-        
-      },
-    },{id: "post-tate-39-s-thesis",
-      
-        title: "Tate&#39;s Thesis",
-      
       description: "Adelic method of getting functional equations of L-functions.",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/math2/";
-        
-      },
-    },{id: "post-a-post-with-plotly-js",
-      
-        title: "a post with plotly.js",
-      
-      description: "this is what included plotly.js code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/plotly/";
-        
-      },
-    },{id: "post-a-post-with-math",
-      
-        title: "a post with math",
-      
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/math/";
         
       },
     },{id: "news-a-simple-inline-announcement",
