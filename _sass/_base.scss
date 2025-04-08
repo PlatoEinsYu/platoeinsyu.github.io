@@ -565,6 +565,7 @@ footer.sticky-bottom {
   padding-top: 2rem;
   padding-bottom: 3rem;
 
+  font-family: 'Times New Roman', Times, serif;
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
@@ -922,6 +923,8 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+
+  font-family: 'Times New Roman', Times, serif;
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
