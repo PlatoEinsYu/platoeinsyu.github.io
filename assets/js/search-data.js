@@ -48,8 +48,8 @@ ninja.data = [{
           window.location.href = "/blog/2025/math2/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-nothing-here",
+          title: 'Nothing here.',
           description: "",
           section: "News",},{id: "projects-project-2",
           title: 'project 2',
