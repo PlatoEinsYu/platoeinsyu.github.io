@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-tate-39-s-thesis",
+        },{id: "post-rankin-selberg-method",
+      
+        title: "Rankin-Selberg Method",
+      
+      description: "Modular forms and L-functions.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/rankin/";
+        
+      },
+    },{id: "post-tate-39-s-thesis",
       
         title: "Tate&#39;s Thesis",
       
@@ -45,7 +56,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/math2/";
+          window.location.href = "/blog/2025/tates/";
         
       },
     },{id: "news-nothing-here",
