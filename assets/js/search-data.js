@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-rankin-selberg-method",
+        },{id: "post-this-is-a-test-post",
+      
+        title: "This is a test post",
+      
+      description: "Actually a template.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/TEST/";
+        
+      },
+    },{id: "post-rankin-selberg-method",
       
         title: "Rankin-Selberg Method",
       
