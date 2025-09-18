@@ -16,5 +16,5 @@ related_publications: false
 ### Translations of Lecture Notes
 
 <ul>
-    <li>Motif et Forms Automorphes，Laurent Clozel, English Version.<a href="https://platoeinsyu.github.io/assets/pdf/Projects/ZJU_mathfiles/Motif_et_Forms_Automorphes">Motif et Forms Automorphes</a></li>
+    <li>Motif et Forms Automorphes，Laurent Clozel, English Version.<a href="https://platoeinsyu.github.io/assets/pdf/Projects/ZJU_mathfiles/Motif_et_Forms_Automorphes.pdf">Motif et Forms Automorphes</a></li>
 </ul>
