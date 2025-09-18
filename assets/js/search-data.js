@@ -78,6 +78,11 @@ ninja.data = [{
           description: "课程作业、展示文档与毕业论文",
           section: "Projects",handler: () => {
               window.location.href = "/projects/JLU_works/";
+            },},{id: "projects-数学文件",
+          title: '数学文件',
+          description: "参与编辑的数学文稿",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ZJU_mathfiles/";
             },},{id: "projects-浙大讨论班记录",
           title: '浙大讨论班记录',
           description: "参加的讨论班所使用的教材与讲义",
