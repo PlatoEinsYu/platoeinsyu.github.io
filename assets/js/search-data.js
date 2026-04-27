@@ -9,57 +9,28 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-文章",
-          title: "文章",
+  },{id: "nav-博客",
+          title: "博客",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-发表论文",
-          title: "发表论文",
-          description: "论文按时间最新排列.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
         },{id: "nav-项目",
           title: "项目",
-          description: "本页收录我的讲义、笔记、作业以及杂项等内容.",
+          description: "本页收录我的已凝练收录或较耗精力的内容.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-个人简历",
-          title: "个人简历",
+        },{id: "nav-个人简介",
+          title: "个人简介",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-this-is-a-test-post",
-      
-        title: "This is a test post",
-      
-      description: "Actually a template.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Template/";
-        
-      },
-    },{id: "post-rankin-selberg-method",
-      
-        title: "Rankin-Selberg Method",
-      
-      description: "Modular forms and L-functions.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/rankin/";
-        
-      },
-    },{id: "post-tate-39-s-thesis",
+        },{id: "post-tate-39-s-thesis",
       
         title: "Tate&#39;s Thesis",
       
@@ -67,33 +38,13 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/tates/";
+          window.location.href = "/blog/2026/tates/";
         
       },
-    },{id: "news-nothing-here",
-          title: 'Nothing here.',
+    },{id: "news-因网站域名问题-此网站已改为日记本-学术内容请见-田泽禹的学术主页",
+          title: '因网站域名问题，此网站已改为日记本，学术内容请见 田泽禹的学术主页.',
           description: "",
-          section: "News",},{id: "projects-吉林大学文件杂项",
-          title: '吉林大学文件杂项',
-          description: "课程作业、展示文档与毕业论文",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/JLU_works/";
-            },},{id: "projects-数学文件",
-          title: '数学文件',
-          description: "参与编辑的数学文稿",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/ZJU_mathfiles/";
-            },},{id: "projects-浙大讨论班记录",
-          title: '浙大讨论班记录',
-          description: "参加的讨论班所使用的教材与讲义",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/ZJU_seminars/";
-            },},{id: "projects-吉大高代小导师",
-          title: '吉大高代小导师',
-          description: "唐班拓展内容讲义",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/linear_algebra/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
