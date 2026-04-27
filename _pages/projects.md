@@ -2,10 +2,10 @@
 layout: page
 title: 项目
 permalink: /projects/
-description: 本页收录我的讲义、笔记、作业以及杂项等内容.
+description: 本页收录我的已凝练收录或较耗精力的内容.
 nav: true
 nav_order: 3
-display_categories: [讲义, 笔记, 杂项, TEST]
+display_categories: [科学,哲学与文学,摄影与艺术]
 horizontal: false
 ---
 
