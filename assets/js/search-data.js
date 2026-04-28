@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-tate-39-s-thesis",
+        },{id: "post-2026-五月计划",
       
-        title: "Tate&#39;s Thesis",
+        title: "2026 五月计划",
       
-      description: "Adelic method of getting functional equations of L-functions.",
+      description: "数学与其他内容的学习计划",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/tates/";
+          window.location.href = "/blog/2026/04/MayPlan/";
         
       },
     },{id: "news-因网站域名问题-此网站已改为日记本-学术内容请见-田泽禹的学术主页",
